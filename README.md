@@ -67,3 +67,6 @@ In Vietnam, TED is popular among the youth who seeks for motivation or innovatio
 * What are the most welcome topic in TED.
 * Evaluate TED performances throught time.
 * Find any interesting facts about TED.
+
+
+https://datastudio.google.com/s/qtQGMx8yYI0
